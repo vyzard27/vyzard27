@@ -1,4 +1,3 @@
-Olá :)
-Sou um novo membro da comunidade  e futuro cientista de dados.
-Atualmente estudando Estatística,  algoritmos e estrutura de dados.
-Espero em breve estar criando  repositórios relevantes  e aprender  mais com  todos por aqui.
+Hi :) I'm a new community member and future data scientist.
+Currently studying Statistics, Algorithms and Data Structure.
+I hope to soon be creating relevant repositories and learn more from everyone around here.
